@@ -1,4 +1,16 @@
 lesson_2_refelctions.txt
 
 
-here i should have info about lesson_2_refelctions
+info about lesson_2_refelctions
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+- you can put in the staging area only one logical change at the time commit then move to the next one.
+- keep other changes in the working directory. 
+
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+- branches are helpful when you want to do something new, but keep the original work untacked. 
+- this way you can switch between branches easily and without confusing versions together. 
+
